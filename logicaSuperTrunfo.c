@@ -158,7 +158,6 @@ int main()
     // Início da "batalha"
     do
     {
-        // Caso a entrada seja inválida/diferente, o código irá se repetir
         printf("\nPrepare-se para a batalha!\n");
         printf("\nQuais atributos você deseja comparar?\n");
         printf("\n[1] - População\n[2] - Área\n[3] - Pib\n[4] - Pontos turísticos\n[5] - Densidade populacional\n[6] - Pib per capita\n[7] - Super poder\n[8] - Sair\n");
